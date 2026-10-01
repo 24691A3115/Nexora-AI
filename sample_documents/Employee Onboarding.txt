@@ -1,0 +1,30 @@
+# EMPLOYEE ONBOARDING GUIDE - NEXORA TECHNOLOGIES
+
+1. WELCOME TO NEXORA
+Welcome to Nexora Technologies! This guide outlines the onboarding process for all newly joined employees to ensure a smooth transition into the organization.
+
+2. DAY 1 ONBOARDING STEPS
+- Document Verification: Submit identity proof (Passport/National ID), educational certificates, and previous employment relief letters to HR.
+- System & IT Setup: Collect your laptop, security key, enterprise credentials, and official email account from IT Support desk.
+- HR Orientation: Complete the 2-hour orientation session covering company culture, organizational structure, safety guidelines, and benefits.
+
+3. FIRST WEEK EXPECTATIONS
+- Complete mandatory compliance and security training courses within 5 days of joining.
+- Schedule introductory 1-on-1 meetings with your direct manager, team members, and assigned onboarding buddy.
+- Review team project documentation and set up your local development environment.
+
+4. PROBATION PERIOD
+All new hires undergo a standard probation period of 6 months. During the probation period, employees are assessed on their performance, punctuality, team collaboration, and adherence to company policies.
+- Probation Duration: The standard probation period is 6 months from the date of joining.
+- Performance Reviews: Formal performance evaluations are conducted at 90 days (3 months) and 180 days (6 months) by the department head and HR manager.
+- Probation Extension: The probation period may be extended by an additional 3 months if the employee's performance does not meet the expected standards. An extension is formally communicated in writing by HR.
+- Successful Completion: Upon successful completion of the 6-month probation period, the employee is confirmed as a permanent full-time employee. A confirmation letter is issued by HR, and the employee becomes eligible for all benefits including Work From Home allowance, annual increments, and earned leave accrual.
+- Termination During Probation: The company reserves the right to terminate employment during the probation period with a notice of 15 days or payment in lieu of notice if performance standards are not met.
+- Probationary employees are entitled to casual leave and sick leave during the probation period but are not eligible for earned leave or WFH allowance until confirmation.
+
+5. POST-CONFIRMATION BENEFITS
+After successful probation completion and permanent confirmation, employees are eligible for:
+- Work From Home (WFH) allowance as per the WFH Policy.
+- Annual earned leave accrual of 15 days per year.
+- Annual performance-based salary increment.
+- Access to employee benefits such as group health insurance and travel reimbursements.

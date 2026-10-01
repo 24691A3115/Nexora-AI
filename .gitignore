@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+backend/nexora.db
+backend/uploads/*
+backend/rag/faiss_index.bin
+backend/rag/faiss_index.npy
+backend/rag/metadata.json
+
+# Node & Next.js
+node_modules/
+frontend/.next/
+frontend/out/
+.DS_Store
+*.log
+.env
+.env.local

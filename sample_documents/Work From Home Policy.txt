@@ -1,0 +1,17 @@
+# WORK FROM HOME (WFH) POLICY - NEXORA TECHNOLOGIES
+
+1. ELIGIBILITY
+Full-time employees who have completed their initial probation period (6 months) are eligible to request Work From Home allowance.
+
+2. ALLOWED HYBRID SCHEDULE
+- Hybrid model: Employees can work remotely up to 2 days per week (e.g., Monday & Friday) with prior manager approval.
+- Full WFH allowance: Granted only under exceptional medical or personal conditions requiring HR and Department Head approval.
+
+3. APPROVAL PROCESS
+- WFH requests must be submitted at least 24 hours prior via the Email Assistant or HR portal.
+- Managers reserve the right to decline WFH requests if core project deadlines or client meetings require in-person attendance.
+
+4. REMOTE WORK STANDARDS & SECURITY
+- High-speed internet (minimum 25 Mbps) and a quiet, secure workspace are required.
+- Employees must connect to the enterprise VPN at all times while accessing company databases and repositories.
+- Working from public Wi-Fi without VPN is strictly prohibited.

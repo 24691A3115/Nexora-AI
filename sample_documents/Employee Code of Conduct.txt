@@ -1,0 +1,16 @@
+# EMPLOYEE CODE OF CONDUCT - NEXORA TECHNOLOGIES
+
+1. PROFESSIONAL ETHICS AND INTEGRITY
+At Nexora Technologies, we maintain the highest standards of professional conduct, integrity, honesty, and mutual respect.
+
+2. WORKPLACE DIVERSITY AND ANTI-HARASSMENT
+- Zero tolerance for harassment, discrimination, or bullying based on race, gender, religion, age, disability, or sexual orientation.
+- All employees must promote an inclusive, collaborative, and safe work environment.
+
+3. CONFIDENTIALITY AND DATA PROTECTION
+- Proprietary source code, customer records, financial data, and AI models are strictly confidential.
+- Sharing confidential information outside authorized channels or using unauthorized personal cloud storage is a severe policy violation.
+
+4. IT RESOURCES AND DEVICE USE
+- Enterprise hardware and network assets are intended primarily for official company duties.
+- Personal use must be minimal and must not compromise network bandwidth or IT security protocols.
